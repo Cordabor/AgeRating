@@ -1,1 +1,1 @@
-# AgeRating
+Запустите файл Quiz.jar
